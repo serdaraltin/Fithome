@@ -1,0 +1,10 @@
+c:\users\main\documents\visual studio 2010\Projects\Fithome\Fithome\bin\Debug\Fithome.exe
+c:\users\main\documents\visual studio 2010\Projects\Fithome\Fithome\bin\Debug\Fithome.pdb
+c:\users\main\documents\visual studio 2010\Projects\Fithome\Fithome\obj\x86\Debug\Fithome.Form1.resources
+c:\users\main\documents\visual studio 2010\Projects\Fithome\Fithome\obj\x86\Debug\Fithome.Properties.Resources.resources
+c:\users\main\documents\visual studio 2010\Projects\Fithome\Fithome\obj\x86\Debug\Fithome.csproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2010\Projects\Fithome\Fithome\obj\x86\Debug\Fithome.exe
+c:\users\main\documents\visual studio 2010\Projects\Fithome\Fithome\obj\x86\Debug\Fithome.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Fithome\Fithome\obj\x86\Debug\Fithome.csprojResolveAssemblyReference.cache
+E:\00_Documents\00_Programming\01_Editor\Visual Studio 2010\Projects\Fithome\Fithome\obj\x86\Debug\Fithome.exe
+E:\00_Documents\00_Programming\01_Editor\Visual Studio 2010\Projects\Fithome\Fithome\obj\x86\Debug\Fithome.pdb
